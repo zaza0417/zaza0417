@@ -22,4 +22,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/isac.as2?igsh=MW5xMWc0bG03djkyYg%3D%3D&utm_source=qr)
 
  
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Nihal182)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=zaza0417)
