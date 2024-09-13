@@ -9,7 +9,7 @@
  
 -  :desktop_computer: Currently studying Systems Analysis and Development;
  
-- :video_game: I like to play;
+- :video_game: I really like playing;
  
 - :call_me_hand: I'm curious, empathetic and proactive;
  
