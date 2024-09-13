@@ -13,7 +13,7 @@
  
 - :call_me_hand: I'm curious, empathetic and proactive;
  
-- I like music :metal: , animes&movies :clapper: , books :books: and technologies :woman_technologist:;
+- I like music :metal: , animes&movies :clapper: and technologies :woman_technologist:;
  
 - :trophy: I'm avaliable for any project;
 
