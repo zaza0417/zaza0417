@@ -1,16 +1,25 @@
-## Hi there 👋
+# Isac Alves do carmo (zaza)
+ 
+### :handshake: Hello all, welcome to my GitHub profile!
+ 
+ 
+- :beginner: Begginer Developer Analyst;
+ 
+- :moneybag: Working at SingleTech;
+ 
+-  :desktop_computer: Currently studying Systems Analysis and Development;
+ 
+- :video_game: I like to play;
+ 
+- :call_me_hand: I'm curious, empathetic and proactive;
+ 
+- I like music :metal: , animes&movies :clapper: , books :books: and technologies :woman_technologist:;
+ 
+- :trophy: I'm avaliable for any project;
 
-<!--
-**zaza0417/zaza0417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/isac-alves-865066229/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/isac.as2?igsh=MW5xMWc0bG03djkyYg%3D%3D&utm_source=qr)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Nihal182)
