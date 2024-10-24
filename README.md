@@ -1,4 +1,5 @@
-# Konichiwa 👋
+# 🌟 Hello, I'm Isac! Welcome to my digital world! 🌟
+
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
@@ -9,79 +10,65 @@
 </br>
 
 
-# About ME 💬 :
+## Who am I? 🤔
 
-### - I'm 20 years old and I'm studying Systems Analysis and Development. Enthusiast from Brazil.
+🎓 I'm a student of **System Analysis and Development**, currently diving into technologies like **HTML**, **CSS**, **JavaScript**, **Python*, **Bootstrap**.
+
+👨‍💻 I'm passionate about creating creative and innovative solutions, always seeking new challenges in software development. My mission is to become a developer as skilled as **Luffy** is determined to become the Pirate King! 🏴‍☠️👑
+
+---
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/15682.gif">
 
-### - Learning :
-- ✨ systems analysis
-- ✨ development
+## Technologies I'm using in my ninja training 👨‍💻:
 
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ writer
+- **HTML** 🖼️
+- **CSS** 🎨
+- **JavaScript** ⚡
+- **Python** 🐍
+- **Java** ☕
+- And of course, always learning more with **Bootstrap** and other front and back-end tools! 🚀
 
-</br>
-</br>
-</br>
-
-
-
-# Languages & Tools 👨‍💻 🛠:
-</br>
-
-<p align="center">
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
-</p>
-</br>
-</br>
-</br>
-
-
-
-# Contact Me :
-
-<p>
- </br>
-
-
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/13626.gif">
-
-
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-
-<a href="mailto:aisac808@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/isac-alves-865066229/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
-</a>
- </p>
- 
+---
 
 </br>
 </br>
 </br>
-</br>
-</br>
-</br>
-</br>
 
+## A little about me 💭
+
+I'm a true **anime** fan and try to apply **Naruto's** 🍥 determination and **Goku's** 🔥 focus to everything I do. If you're also a fan of tech and otaku culture, we're already friends! 😄
+
+In my free time, I enjoy:
+
+- Watching anime (💡 current recommendation: *Dan dan dan* 🕵️‍♂️🔍)
+- Developing projects like websites 🎨 (I'm working on one about **Brazilian music** 🇧🇷🎶)
+- Diving into code and learning something new every day 💻✨
+
+---
+
+## "Every programmer has their own style, just like every character has their hidden power!" 🌟
+
+With every new project, I feel closer to becoming the **"Hokage of Devs"**! 👨‍💻🔥
+
+---
+## "Every programmer has their own style, just like every character has their hidden power!" 🌟
+
+With every new project, I feel closer to becoming the **"Hokage of Devs"**! 👨‍💻🔥
+
+---
+
+## Let's connect? 🤝
+
+If you share this passion for development (or just want to chat about **anime** 🐉), feel free to message me!
+
+- **Email:** [isacalves@example.com](mailto:isacalves@example.com)
+- **LinkedIn:** [Isac Alves](https://www.linkedin.com/in/isac-alves)
+- **GitHub:** Right here, exploring the code! 😎
+
+---
+
+> "It doesn't matter how slow you go, as long as you don't stop." – **Monkey D. Luffy** 🍖
 
 
 <p align="center" >  
@@ -89,5 +76,5 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <img  src="https://github-readme-stats.vercel.app/api?username=zaza0417&&show_icons=true&theme=radical"/>
   </a>
   </p>
-
+#Anime #DevLife #HokageOfCode #FullStackInTraining
 *************
