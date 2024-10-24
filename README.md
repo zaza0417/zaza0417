@@ -63,8 +63,8 @@ With every new project, I feel closer to becoming the **"Hokage of Devs"**! 👨
 
 If you share this passion for development (or just want to chat about **anime** 🐉), feel free to message me!
 
-- **Email:** [isacalves@example.com](mailto:isacalves@example.com)
-- **LinkedIn:** [Isac Alves](https://www.linkedin.com/in/isac-alves)
+- **Email:** [aisac808@gmail.com](mailto:aisac808@gmail.com)
+- **LinkedIn:** [Isac Alves]([https://www.linkedin.com/in/isac-alves](https://www.linkedin.com/in/isac-alves-865066229/))
 - **GitHub:** Right here, exploring the code! 😎
 
 
