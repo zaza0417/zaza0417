@@ -16,7 +16,6 @@
 
 👨‍💻 I'm passionate about creating creative and innovative solutions, always seeking new challenges in software development. My mission is to become a developer as skilled as **Luffy** is determined to become the Pirate King! 🏴‍☠️👑
 
----
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/15682.gif">
 
@@ -29,7 +28,7 @@
 - **Java** ☕
 - And of course, always learning more with **Bootstrap** and other front and back-end tools! 🚀
 
----
+
 
 </br>
 </br>
@@ -45,18 +44,18 @@ In my free time, I enjoy:
 - Developing projects like websites 🎨 (I'm working on one about **Brazilian music** 🇧🇷🎶)
 - Diving into code and learning something new every day 💻✨
 
----
+
 
 ## "Every programmer has their own style, just like every character has their hidden power!" 🌟
 
 With every new project, I feel closer to becoming the **"Hokage of Devs"**! 👨‍💻🔥
 
----
+
 ## "Every programmer has their own style, just like every character has their hidden power!" 🌟
 
 With every new project, I feel closer to becoming the **"Hokage of Devs"**! 👨‍💻🔥
 
----
+
 
 ## Let's connect? 🤝
 
@@ -66,7 +65,7 @@ If you share this passion for development (or just want to chat about **anime** 
 - **LinkedIn:** [Isac Alves](https://www.linkedin.com/in/isac-alves)
 - **GitHub:** Right here, exploring the code! 😎
 
----
+
 
 > "It doesn't matter how slow you go, as long as you don't stop." – **Monkey D. Luffy** 🍖
 
@@ -77,4 +76,3 @@ If you share this passion for development (or just want to chat about **anime** 
   </a>
   </p>
 #Anime #DevLife #HokageOfCode #FullStackInTraining
-*************
