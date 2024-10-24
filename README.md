@@ -27,9 +27,11 @@
 - **Java** ☕
 - And of course, always learning more with **Bootstrap** and other front and back-end tools! 🚀
 
-
-
-
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ## A little about me 💭
 
