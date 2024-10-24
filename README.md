@@ -19,7 +19,7 @@
 
 
 ## Technologies I'm using in my ninja training 👨‍💻:
-
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/15682.gif">
 - **HTML** 🖼️
 - **CSS** 🎨
 - **JavaScript** ⚡
@@ -27,7 +27,6 @@
 - **Java** ☕
 - And of course, always learning more with **Bootstrap** and other front and back-end tools! 🚀
 
-  <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/15682.gif">
 
 
 
