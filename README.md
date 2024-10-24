@@ -12,7 +12,7 @@
 
 ## Who am I? 🤔
 
-🎓 I'm a student of **System Analysis and Development**, currently diving into technologies like **HTML**, **CSS**, **JavaScript**, **Python*, **Bootstrap**.
+🎓 I'm a student of **System Analysis and Development**, currently diving into technologies like **HTML**, **CSS**, **JavaScript**, **Python** , **Bootstrap**.
 
 👨‍💻 I'm passionate about creating creative and innovative solutions, always seeking new challenges in software development. My mission is to become a developer as skilled as **Luffy** is determined to become the Pirate King! 🏴‍☠️👑
 
