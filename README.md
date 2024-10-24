@@ -30,9 +30,6 @@
 
 
 
-</br>
-</br>
-</br>
 
 ## A little about me 💭
 
