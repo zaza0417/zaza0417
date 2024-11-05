@@ -53,11 +53,6 @@ In my free time, I enjoy:
 With every new project, I feel closer to becoming the **"Hokage of Devs"**! 👨‍💻🔥
 
 
-## "Every programmer has their own style, just like every character has their hidden power!" 🌟
-
-With every new project, I feel closer to becoming the **"Hokage of Devs"**! 👨‍💻🔥
-
-
 
 ## Let's connect? 🤝
 
