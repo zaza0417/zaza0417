@@ -6,7 +6,7 @@
 ## 🚀 About Me
 
 🎓 Information Systems Student  
-💼 Trainee Developer  
+💼 Developer Jr  
 📍 Brazil  
 
 I’m focused on building scalable backend systems and writing clean, maintainable code.  
