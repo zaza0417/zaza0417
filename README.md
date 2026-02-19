@@ -1,75 +1,99 @@
-# 🌟 Hello, I'm Isac! Welcome to my digital world! 🌟
-
+# 👨‍💻 Isac Alves  
+### Backend Developer in Progress | Information Systems Student
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+  <img height="260" width="750" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif" />
 </div>
 
-</br>
-</br>
-</br>
+---
 
+## 🚀 About Me
 
-## Who am I? 🤔
+🎓 Information Systems Student  
+💼 Trainee Developer  
+📍 Brazil  
 
-🎓 I'm a student of **System Analysis and Development**, currently diving into technologies like **HTML**, **CSS**, **JavaScript**, **Python** , **Bootstrap**.
+I’m focused on building scalable backend systems and writing clean, maintainable code.  
+Passionate about architecture, performance, and continuous improvement.
 
-👨‍💻 I'm passionate about creating creative and innovative solutions, always seeking new challenges in software development. My mission is to become a developer as skilled as **Luffy** is determined to become the Pirate King! 🏴‍☠️👑
+Currently evolving in:
 
+- Enterprise backend development  
+- REST API design  
+- Database modeling  
+- Automation and system integrations  
 
+My long-term goal is to become a highly skilled software engineer capable of designing robust and efficient systems.
 
-## Technologies I'm using in my ninja training 👨‍💻:
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/15682.gif">
-- **HTML** 🖼️
-- **CSS** 🎨
-- **JavaScript** ⚡
-- **Python** 🐍
-- **Java** ☕
-- And of course, always learning more with **Bootstrap** and other front and back-end tools! 🚀
+---
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+## 🧠 Core Skills
 
-## A little about me 💭
+### 💻 Backend
+- Java  
+- Spring Boot  
+- JPA / Hibernate  
+- PostgreSQL  
+- RESTful APIs  
 
-I'm a true **anime** fan and try to apply **Naruto's** 🍥 determination and **Goku's** 🔥 focus to everything I do. If you're also a fan of tech and otaku culture, we're already friends! 😄
+### 🌐 Frontend
+- HTML  
+- CSS  
+- JavaScript  
+- Angular  
+- Bootstrap  
 
-In my free time, I enjoy:
+### 🛠 Tools & Workflow
+- Docker  
+- Git & GitHub  
+- Maven  
+- Postman  
+- IntelliJ IDEA  
 
-- Watching anime (💡 current recommendation: *Dan dan dan* 🕵️‍♂️🔍)
-- Developing projects like websites 🎨 (I'm working on one about **Brazilian music** 🇧🇷🎶)
-- Diving into code and learning something new every day 💻✨
+---
 
+## 📊 GitHub Analytics
 
+<p align="center">  
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=zaza0417&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" 
+  />
+</p>
 
-## "Every programmer has their own style, just like every character has their hidden power!" 🌟
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=zaza0417&theme=black-ice&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" 
+  />
+</p>
 
-With every new project, I feel closer to becoming the **"Hokage of Devs"**! 👨‍💻🔥
+---
 
+## 🎯 Current Focus
 
+- Clean Architecture principles  
+- Performance optimization  
+- Scalable backend systems  
+- Improving fullstack integration (Angular + Spring)  
+- Writing production-level code  
 
-## Let's connect? 🤝
+---
 
-If you share this passion for development (or just want to chat about **anime** 🐉), feel free to message me!
+## 📬 Connect With Me
 
-- **Email:** [aisac808@gmail.com](mailto:aisac808@gmail.com)
-- **LinkedIn:** [Isac Alves]([https://www.linkedin.com/in/isac-alves](https://www.linkedin.com/in/isac-alves-865066229/))
-- **GitHub:** Right here, exploring the code! 😎
+📧 **Email:** aisac808@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/isac-alves-865066229/  
+🐙 **GitHub:** https://github.com/zaza0417  
 
+---
 
+## ⚡ Developer Mindset
 
-> "It doesn't matter how slow you go, as long as you don't stop." – **Monkey D. Luffy** 🍖
+> Discipline builds consistency.  
+> Consistency builds mastery.  
+> Mastery builds impact.
 
+---
 
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=zaza0417&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
-#Anime #DevLife #HokageOfCode #FullStackInTraining
+<p align="center">
+  <strong>Clean Code • Strong Architecture • Continuous Growth</strong>
+</p>
