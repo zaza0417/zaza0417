@@ -1,10 +1,6 @@
 # 👨‍💻 Isac Alves  
 ### Backend Developer in Progress | Information Systems Student
 
-<div align="center">
-  <img height="260" width="750" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif" />
-</div>
-
 ---
 
 ## 🚀 About Me
